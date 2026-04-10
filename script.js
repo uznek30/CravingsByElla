@@ -65,8 +65,8 @@ const COOKIES = [
   {
     id: 'double-choco',
     name: 'Double Chocolate Chip',
-    price: 50,
-    image: 'images/double chocolate chip.jpg',
+    price: 60,
+    image: 'images/Double Chocolate Chip.jpg',
     badge: '🍫 Rich',
     badgeClass: 'choco-badge',
     desc: 'Double the chocolate, double the happiness para sa mga chocoholics.',
