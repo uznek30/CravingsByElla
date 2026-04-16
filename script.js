@@ -139,7 +139,9 @@ function addToCart(cookieId) {
   }
 
   updateCartUI();
-  // ... (rest of the code)
+  animateCartButton();
+  flashAddButton(cookieId);
+  showToast(`${cookie.name} added! 🍪`);
 }
 
 /**
