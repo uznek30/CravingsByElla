@@ -71,6 +71,15 @@ const COOKIES = [
     badgeClass: 'choco-badge',
     desc: 'Double the chocolate, double the happiness para sa mga chocoholics.',
   },
+  {
+    id: 'Red Velvet Brownies',
+    name: 'Red Velvet Brownies',
+    price: 150,
+    image: 'images/Rcheescake.jpg',
+    badge: 'New!',
+    badgeClass: '',
+    desc: 'Mapula\'t masarap — classic red velvet meets creamy cheesecake Toppings.',
+  },
 ]
 
 /* ─────────────────────────────────────────────────────────
