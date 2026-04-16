@@ -11,7 +11,7 @@ const COOKIES = [
   {
     id: 'red-velvet',
     name: 'Red Velvet Cheesecake',
-    price: 70,
+    price: 65,
     image: 'images/red-velvet.jpg', // Palitan ito ng tamang file name
     badge: 'Fan Fave',
     badgeClass: '',
